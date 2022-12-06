@@ -34,7 +34,9 @@ I'm an iOS Developer who fell in love with Golang 🤯🤩! <br><br/>
 <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=Sharkzuria&show_icons=true&theme=dark" width = 450/>
   
   
-- 📫 How to reach me ...
+
+  
+  📫 How to reach me ...
   lebonbauma.dev@gmail.com
 
 
