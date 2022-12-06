@@ -18,7 +18,7 @@ I'm an iOS Developer who fell in love with Golang 🤯🤩! <br><br/>
 
 
 ### 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/-007f9f?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/golang-007f9f?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/k8s-306CE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-003F8C?style=for-the-badge&logo=docker&logoColor=0173EC"/>
 
