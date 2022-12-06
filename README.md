@@ -26,8 +26,8 @@ I'm an iOS Developer who fell in love with Golang 🤯🤩! <br><br/>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/SwiftUI-06c?style=for-the-badge&logo=swift&logoColor=black"/>
-<img src="https://img.shields.io/badge/Combine-fff?style=for-the-badge&logo=apple&logoColor=gray"/>
-<img src="https://img.shields.io/badge/AWS-fffffe?style=for-the-badge&logo=amazon&logoColor=EB912E"/>
+<img src="https://img.shields.io/badge/Combine-F5F8FA?style=for-the-badge&logo=apple&logoColor=gray"/>
+<img src="https://img.shields.io/badge/AWS-F5F8FA?style=for-the-badge&logo=amazon&logoColor=EB912E"/>
 
 
 
