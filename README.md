@@ -29,12 +29,11 @@ I'm an iOS Developer who fell in love with Golang 🤯🤩! <br><br/>
 <img src="https://img.shields.io/badge/Combine-F5F8FA?style=for-the-badge&logo=apple&logoColor=gray"/>
 <img src="https://img.shields.io/badge/AWS-F5F8FA?style=for-the-badge&logo=amazon&logoColor=EB912E"/>
   
+
+<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=Sharkzuria&show_icons=true&theme=dark" width = 450/>
+  
   
 ### 📫 How to reach me ...
   lebonbauma.dev@gmail.com
-
-
-
-<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=Sharkzuria&show_icons=true&theme=dark" width = 450/>
   
 
